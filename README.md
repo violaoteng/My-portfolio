@@ -2,9 +2,9 @@
 
 A personal portfolio showcasing my journey as a Computer Science graduate, my web development projects, technical skills, and creativity. Built using HTML, CSS, and JavaScript with a focus on clean design, usability, and responsive layouts.
 
-## Live Link-
+## Live Link
 
-Coming soon!
+https://violaoteng.github.io/My-portfolio/
 
 ## About Me
 
