@@ -1,33 +1,75 @@
-# Sudharsan Portfolio
+# Viola Faith Oteng — Portfolio
 
-Simple webpage crafted using pure HTML and CSS. A minimalistic showcase of structure and design.
+A personal portfolio showcasing my journey as a Computer Science graduate, my web development projects, technical skills, and creativity. Built using HTML, CSS, and JavaScript with a focus on clean design, usability, and responsive layouts.
 
-### Live Link: https://danielace1.github.io/Portfolio/
+## Live Link-
+
+Coming soon!
+
+## About Me
+
+I'm a Computer Science graduate from Egerton University with an interest in software development, web technologies, and DevOps. I enjoy building practical projects that combine functionality, creativity, and user-friendly design.
+
+This portfolio highlights my projects, technical abilities, and continuous learning journey in technology.
+
+## Featured Projects
+
+### 1. FreeMind Hub
+A mental health telemedicine web application designed to connect patients with therapists through appointment booking, messaging, and virtual consultations.
+
+**Technologies:** Python, Django, HTML, CSS, Bootstrap, JavaScript, SQLite.
+
+### 2. Sweet Cheeks Restaurant
+A restaurant website showcasing menu items, restaurant information, and a welcoming design for customers.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+### 3. Kenyan Meal Planner
+A web project focused on helping users explore and plan meals inspired by Kenyan cuisine.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+## Technical Skills
+
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript
+- **Backend:** Python, Django
+- **Database:** SQLite, MySQL, SQL
+- **Tools:** Git, GitHub, Figma, Canva
+- **Currently Exploring:** DevOps, cloud technologies, and deployment workflows
 
 ## Features
 
-🎨 **Three Themes**: This project includes three distinct color themes, each with its own CSS file:
+- Clean and minimal design
+- Responsive layout for different screen sizes
+- Project showcase with descriptions and technologies
+- About section highlighting my background and interests
+- Contact and social media links
+- Easy-to-maintain HTML, CSS, and JavaScript structure
 
-1. **Blue Theme**
-2. **Red Theme**
-3. **Violet Theme**
+## Getting Started
 
-**_How to Switch Themes_** :
+To run the portfolio locally:
 
-To switch between these themes, link the desired theme's CSS file in your HTML. For example, to use the Red Theme:
+1. Clone the repository:
 
-```html
-<link rel="stylesheet" href="path/to/style-two.css" />
-```
+   ```bash
+   git clone https://github.com/violaoteng/My-portfolio.git
+   ```
 
-#### Authors:
+2. Navigate to the project folder:
 
-- Special thanks to [Mr. Anbuselvan
-  Rocky](https://github.com/anburocky3) for his valuable mentorship.
+   ```bash
+   cd My-portfolio
+   ```
 
-##### Connect with me on:
+3. Open `index.html` in your browser.
 
-- [Linked-in](https://www.linkedin.com/in/sudharsan-a-b40506290/)
-- [Instagram](https://instagram.com/sudharsan_daniel)
-- [Facebook](https"//https://www.facebook.com/sudharsandaniel.sudharsandaniel)
-- [Github](https://github.com/danielace1)
+## Connect With Me
+
+- **GitHub:** [violaoteng](https://github.com/violaoteng)
+- **LinkedIn:** www.linkedin.com/in/faith-oteng-270201316
+- **Email:** otengviola@gmail.com
+
+---
+
+*Designed and developed by Viola Faith Oteng.*
